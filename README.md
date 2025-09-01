@@ -2,7 +2,7 @@
 
 ## Project Overview
 A complete MERN stack application for managing sales agents and distributing customer leads efficiently.
-
+>Here’s the video demonstration: https://drive.google.com/file/d/1GY8MBgfVugkuovqeUjBLOvU3Qu84_dzA/view?usp=drive_link
 ## Technology Stack
 - **Frontend**: React.js with modern CSS
 - **Backend**: Node.js, Express.js
@@ -101,6 +101,11 @@ agent-management/
 - Add new fields to agent models as needed
 
 ## Support
-For technical issues or questions about implementation.
 
-Made by Rudhr Chauhan
+For support, email rudhr.chauhan@gmail.com or create an issue on GitHub.
+
+## Author
+
+**Rudhr Chauhan**  
+>🎓 BCA Student | Aspiring Developer
+>💼 Interested in Full Stack, Cybersecurity, and Cloud
